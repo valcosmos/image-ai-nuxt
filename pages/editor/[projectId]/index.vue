@@ -5,4 +5,3 @@ import Editor from '~/features/editor/components/editor.vue'
 <template>
   <Editor />
 </template>
-

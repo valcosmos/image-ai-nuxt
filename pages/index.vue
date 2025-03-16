@@ -1,6 +1,5 @@
 <template>
   <div>
-     <UButton>Button</UButton>
+    <UButton>Button</UButton>
   </div>
 </template>
-
